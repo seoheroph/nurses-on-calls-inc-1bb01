@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/nurses-on-calls-inc-1bb01/sitemap.xml
